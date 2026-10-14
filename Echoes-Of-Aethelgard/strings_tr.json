@@ -1,0 +1,40 @@
+{
+  "game_title": "Echoes of Aethelgard",
+  "file_version": "1.3.0",
+  "language": "tr_TR",
+  "strings": {
+    "ui_mainmenu_newgame": "İnişe Başla",
+    "ui_mainmenu_continue": "Yola Devam Et",
+    "ui_mainmenu_settings": "Ayarlar",
+    "ui_hud_objective_title": "MEVCUT GÖREV",
+    "ui_hud_objective_escape": "Muhafızlara yakalanmadan Demir Zindan'dan kaç.",
+    "ui_hud_stealth_warning": "KAÇINILMAZ MAĞLUBİYET: Yakalandın!",
+    "ui_inventory_capacity": "Envanter: {used_slots}/{max_slots}",
+    
+    "item_note_01_title": "Yıpranmış Muhafız Günlüğü",
+    "item_note_01_body": "Kuşatmanın {days_left}. günü.\nMiasma dış duvarlara kadar geldi. Mahkumlar yine 'Ses' hakkında fısıldaşıyor.\nKomutan Vane takviye kuvvetleri göndermezse, bu kale şafağa kalmadan mezarlığa dönüşecek.",
+    "item_key_dungeon_name": "Paslı Kapı Anahtarı",
+    "item_key_dungeon_desc": "Kurumuş kanla kaplı ağır demir anahtar. Alt hücrelerin kilidini açar.",
+    "item_potion_shadow_name": "Gizlenme İksiri",
+    "item_potion_shadow_desc": "İnsan düşmanlara karşı {duration} saniye boyunca tam görünmezlik sağlar. Oluşan gürültü %{stealth_modifier} oranında azalır.",
+
+    "quest_act1_01_title": "Kalenin Gölgeleri",
+    "quest_act1_01_desc": "Başgardiyan dönmeden yeraltı mezarlarından çıkmanın bir yolunu bul.",
+    "quest_act1_01_step1": "Hücre anahtarları için Yüksek Muhafız'ın cesedini ara.",
+    "quest_act1_01_step2": "Yeraltı rıhtımındaki Kaçakçıya rüşvet ver ya da onu atlat.",
+
+    "dialogue_intro_elder_01": "Şşş, {player_name}! Sessiz ol...\nBu yerin her köşesinde Koruyucuların kulağı var.",
+    "dialogue_intro_elder_02": "Miasma'nın diğerleri gibi seni de aldığını sandım. Üç gündür baygınsın.",
+    "dialogue_intro_elder_03": "Al bunu, alt kapının anahtarı. Limandaki kaçakçının seni geçirmesini istiyorsan {item_count} Maymuncuğa ve en az {gold_cost} Altına ihtiyacın olacak.",
+    "dialogue_intro_elder_04": "Unutma: Aethelgard'ın ışığı sönmüş olabilir, ama nefes almaya devam ettikçe, Dreadveil ruhunu esir alamaz.\nHadi... Vane'in köpekleri kokunu almadan git!",
+    "dialogue_smuggler_01": "Bak sen şuna... Kimleri görüyorum? Dip zindanlardan bir hayalet?",
+    "dialogue_smuggler_02": "Burası hayır kurumu değil, dostum. Kan Körfezinden geçmek {gold_cost} Altına mal olur. Para yoksa kürek de yok.",
+    "dialogue_smuggler_choice_pay": "[{gold_cost} Altın Öde] İşte paran. Şimdi çıkar beni burdan.",
+    "dialogue_smuggler_choice_threat": "[Göz Korkut] Geçmeme izin vermezsen bu rıhtımı senin kanınla boyarım.",
+    "dialogue_smuggler_threat_success": "Tamam, tamam! İndir şu paslı metali. Tekneye geç...",
+
+    "system_save_conflict": "Mevcut kaydın üzerine yazmak istiyor musunuz?\nBölüm {chapter_id}'deki kaydedilememiş ilerleme kaybedilecektir.",
+    "system_error_network": "Aethelgard sunucularıyla bağlantı kaybedildi (Hata Kodu: {error_code}).\nİnternet ayarlarınızı kontrol edin.",
+    "system_achievement_unlocked": "BAŞARI KİLİDİ AÇILDI: {achievement_name}"
+  }
+}
